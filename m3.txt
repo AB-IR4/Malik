@@ -1,1 +1,1 @@
-
+[FBAN/Orca-Android;FBAV/191.0.0.35.96;FBBV/125357973;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/MTS India;FBMF/Allview;FBBD/Allview;FBPN/com.facebook.orca;FBDV/X6_Soul_mini;FBSV/9;nullFBCA/armeabi-v7a:armeabi;]
