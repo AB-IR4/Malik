@@ -1,3 +1,1 @@
-FBAN/Orca-Android;FBAV/282.0.0.40.117;FBBV/236468560;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Vodafone Idea;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.orca;FBDV/vivo x6S A;FBSV/6;nullFBCA/arm64-v8a:;]
-[FBAN/Orca-Android;FBAV/325.0.0.36.170;FBBV/285022375;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Jio;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.orca;FBDV/SML-5442TW;FBSV/14;nullFBCA/arm64-v8a:;]
-[FBAN/Orca-Android;FBAV/368.0.0.24.108;FBBV/313613498;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Jio;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.orca;FBDV/Infinix X666;FBSV/7;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/273.0.0.39.123;FBBV/218047935;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Jio;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.orca;FBDV/T506K;FBSV/13;nullFBCA/armeabi-v7a:armeabi;]
