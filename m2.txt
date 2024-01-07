@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/445.0.0.34.118;FBBV/522056759;FBDM/{density=3.0,width=1080,height=2115};FBLC/en_US;FBRV/375.0.0.7.111;FBCR/airtel;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-M022G;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/368.0.0.24.108;FBBV/313613498;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Jio 4G;FBMF/Sharp;FBBD/AQUOS;FBPN/com.facebook.orca;FBDV/SHV43;FBSV/9;nullFBCA/arm64-v8a:;]
