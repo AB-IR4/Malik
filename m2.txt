@@ -1,3 +1,1 @@
-[FBAN/Orca-Android;FBAV/216.0.0.38.104;FBBV/149356190;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/Telenor India;FBMF/Samsung;FBBD/Galaxy;FBPN/com.facebook.orca;FBDV/SM-R870;FBSV/5;nullFBCA/arm64-v8a:;]
-[FBAN/Orca-Android;FBAV/372.1.0.23.107;FBBV/314414840;FBDM/{density=2.0,width=720,height=1360};FBLC/en_US;FBCR/IND Airtel;FBMF/Tznzxm;FBBD/Tznzxm;FBPN/com.facebook.orca;FBDV/Z6251;FBSV/7;nullFBCA/arm64-v8a:;]
-[FBAN/Orca-Android;FBAV/406.0.0.26.90;FBBV/440212037;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Aircel;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.orca;FBDV/CPH1823;FBSV/8.1;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/445.0.0.34.118;FBBV/522056759;FBDM/{density=3.0,width=1080,height=2115};FBLC/en_US;FBRV/375.0.0.7.111;FBCR/airtel;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-M022G;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
