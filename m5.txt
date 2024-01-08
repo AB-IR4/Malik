@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/386.0.0.35.108;FBBV/317217654;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/MTNL;FBMF/ONN.;FBBD/onn.;FBPN/com.facebook.orca;FBDV/100071483;FBSV/10;nullFBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/375.0.0.26.111;FBBV/315015017;FBDM/{density=3.0,width=720,height=1440};FBLC/en_US;FBCR/Aircel;FBMF/LG;FBBD/LG;FBPN/com.facebook.orca;FBDV/Nexus 5;FBSV/4.4;nullFBCA/arm64-v8a:;]
