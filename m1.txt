@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/298.0.0.46.116;FBBV/259886945;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBCR/MTS India;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.orca;FBDV/CPH2349;FBSV/7;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/239.0.0.41.152;FBBV/172860670;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Aircel;FBMF/KODAK;FBBD/KODAK;FBPN/com.facebook.orca;FBDV/KODAK SMARTWAY L1 PRO;FBSV/5;nullFBCA/arm64-v8a:;]
