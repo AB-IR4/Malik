@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/214.0.0.43.83;FBBV/147376170;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/IND Airtel;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-J260A;FBSV/8.1;nullFBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/352.0.0.20.117;FBBV/310414731;FBDM/{density=2.0,width=720,height=1436};FBLC/en_US;FBCR/Vodafone Idea;FBMF/Lenovo;FBBD/Lenovo;FBPN/com.facebook.orca;FBDV/Lenovo TB-X705L;FBSV/15;nullFBCA/armeabi-v7a:armeabi;]
