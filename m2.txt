@@ -1,1 +1,1 @@
-FBAN/Orca-Android;FBAV/242.0.0.43.119;FBBV/176515204;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Reliance Communications;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.orca;FBDV/motorola one action;FBSV/5;nullFBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/326.0.0.27488;FBBV/309739593;FBDM/FBDM/{density=2.3,width=2198,height=847};FBLC/en_IN;FBRV/309739593;FBCR/Vodafone IT;FBMF/Asus;FBBD/ROG Phone;FBPN/com.facebook.orca;FBDV/ASUS_AI2401;FBSV/13;FBOP/11;FBBK/5;FBCA/arm64-v8a:x86:armeabi-v7a;]
