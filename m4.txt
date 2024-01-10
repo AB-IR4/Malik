@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/399.0.0.25258;FBBV/963945771;FBDM/FBDM/{density=1.4,width=1839,height=481};FBLC/be_BY;FBRV/963945771;FBCR/Digicel;FBMF/Vivo;FBBD/V1925;FBPN/com.facebook.adsmanager;FBDV/V1925;FBSV/9;FBOP/55;FBBK/1;FBCA/x86_64:x86_64:arm64-v8a;]
+[FBAN/Orca-Android;FBAV/352.0.0.20.117;FBBV/310414731;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-M307FN;FBSV/8;nullFBCA/armeabi-v7a:armeabi;]
