@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/222.0.0.10.118;FBBV/253197554;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_GB;FBCR/Grameenphone;FBMF/TITAN;FBBD/TITAN;FBPN/com.facebook.orca;FBDV/TITAN P15000 PRO 5G;FBSV/12;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/112.0.0.5.83;FBPN/com.facebook.orca;FBLC/it_IT;FBBV/211681962;FBCR/Vodafone IN;FBMF/Nokia;FBBD/Nokia;FBDV/C32/DS;FBSV/10;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.625,width=1080,height=1794};]
