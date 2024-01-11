@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/400.0.0.36136;FBBV/76670452;FBDM/FBDM/{density=2.3,width=1050,height=684};FBLC/en_GB;FBRV/76670452;FBCR/Robi Telecom;FBMF/ASUS;FBBD/ZenFone Max (M1);FBPN/com.facebook.adsmanager;FBDV/ZenFone Max (M1);FBSV/8;FBOP/49;FBBK/5;FBCA/arm64-v8a:armeabi-v7a:x86_64;]
+[FBAN/FB4A;FBAV/338.0.0.19284;FBBV/91641397;FBDM/FBDM/{density=2.7,width=682,height=1058};FBLC/fy_NL;FBRV/91641397;FBCR/O!;FBMF/LG;FBBD/LG_V10;FBPN/com.facebook.orca;FBDV/LG_V10;FBSV/5;FBOP/53;FBBK/4;FBCA/armeabi-v7a:x86_64:armeabi-v7a;]
