@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/281.0.0.23158;FBBV/421294103;FBDM/FBDM/{density=2.8,width=906,height=1412};FBLC/lt_LT;FBRV/421294103;FBCR/HT Eronet;FBMF/LG;FBBD/LG_G6;FBPN/com.facebook.katana;FBDV/LG_G6;FBSV/7;FBOP/21;FBBK/1;FBCA/armeabi-v7a:arm64-v8a:x86_64;]
+FBAN/Orca-Android;FBAV/220.0.0.46.112;FBBV/153408057;FBDM/{density=2.0,width=720,height=1358};FBLC/en_US;FBCR/Airtel;FBMF/IMO;FBBD/imo;FBPN/com.facebook.orca;FBDV/IMO Q2 Plus;FBSV/4;nullFBCA/armeabi-v7a:armeabi;]
