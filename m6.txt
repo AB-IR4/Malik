@@ -1,5 +1,1 @@
-[FBAN/Orca-Android;FBAV/222.0.0.10.118;FBBV/253197554;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_GB;FBCR/Grameenphone;FBMF/TITAN;FBBD/TITAN;FBPN/com.facebook.orca;FBDV/TITAN P15000 PRO 5G;FBSV/12;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/Orca-Android;FBAV/303.0.0.30.122;FBBV/269803905;FBDM/{density=2.0,width=720,height=1360};FBLC/en_GB;FBCR/airtel;FBMF/POCO;FBBD/Poco;FBPN/com.facebook.orca;FBDV/M3;FBSV/6;nullFBCA/arm64-v8a:;]
-[FBAN/Orca-Android;FBAV/183.0.0.57.75;FBBV/119505294;FBDM/{density=2.0,width=720,height=1360};FBLC/en_GB;FBCR/Banglalink;FBMF/TCL;FBBD/TCL;FBPN/com.facebook.orca;FBDV/9048S;FBSV/11;nullFBCA/arm64-v8a:;]
-[FBAN/Orca-Android;FBAV/352.0.0.20.117;FBBV/310414731;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_GB;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-M307FN;FBSV/8;nullFBCA/armeabi-v7a:armeabi;]
-[FBAN/Orca-Android;FBAV/292.0.0.60.123;FBBV/250937654;FBDM/{density=3.0,width=720,height=1440};FBLC/en_GB;FBCR/Axis;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-A600A;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/339.0.0.32.118;FBBV/307816483;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_AX;FBCR/Swisscom;FBMF/MEIZU;FBBD/MEIZU;FBPN/com.facebook.katana;FBDV/H4213;FBSV/3;nullFBCA/armeabi-v7a:armeabi;]"
