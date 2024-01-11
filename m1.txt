@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/112.0.0.5.83;FBPN/com.facebook.orca;FBLC/it_IT;FBBV/211681962;FBCR/Vodafone IN;FBMF/Nokia;FBBD/Nokia;FBDV/C32/DS;FBSV/10;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.625,width=1080,height=1794};]
+[FBAN/FB4A;FBAV/339.0.0.32.118;FBBV/307816483;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_AX;FBCR/Swisscom;FBMF/MEIZU;FBBD/MEIZU;FBPN/com.facebook.katana;FBDV/H4213;FBSV/3;nullFBCA/armeabi-v7a:armeabi;]"
