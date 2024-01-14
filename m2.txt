@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/454.0.0.34463;FBBV/262812112;FBDM/FBDM/{density=2.5,width=2361,height=775};FBLC/dv_MV;FBRV/262812112;FBCR/Cootel;FBMF/Vivo;FBBD/V1609;FBPN/com.facebook.orca;FBDV/V1609;FBSV/9;FBOP/63;FBBK/3;FBCA/arm64-v8a:arm64-v8a:x86;]
+[FBAN/FB4A;FBAV/498.0.0.44483;FBBV/742213277;FBDM/FBDM/{density=1.7,width=1437,height=1337};FBLC/sq_AL;FBRV/742213277;FBCR/Interdnestrcom;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.adsmanager;FBDV/Samsung Galaxy S20 Ultra;FBSV/11;FBOP/82;FBBK/1;FBCA/x86:armeabi-v7a:x86;]
